@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejaswini</h1>
-- 🌱 I’m currently learning **Cloud,AWS,DSA**
+- 🌱 I’m currently learning  Cloud,AWS,DSA,SQL
 
 - 📫 How to reach me **tejukarthikreddy@gmail.com**
 
